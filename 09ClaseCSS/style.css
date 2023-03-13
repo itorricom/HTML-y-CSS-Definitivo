@@ -1,0 +1,20 @@
+/* SELECTORES */
+
+/* por el elemento o etiqueta */
+
+p{
+    color: blue;
+    background: gray;
+}
+
+/* por la clase */
+
+.parrafo{
+    background-color: red;
+}
+
+/* por el id */
+
+#texto{
+    background-color: yellow;
+}
